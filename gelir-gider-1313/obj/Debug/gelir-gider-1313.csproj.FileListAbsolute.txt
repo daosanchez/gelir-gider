@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\gelir-gider-1313\gelir-gider-1313\bin\Debug\gelir-gider-1313.exe.config
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\gelir-gider-1313\gelir-gider-1313\bin\Debug\gelir-gider-1313.exe
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\gelir-gider-1313\gelir-gider-1313\bin\Debug\gelir-gider-1313.pdb
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\gelir-gider-1313\gelir-gider-1313\obj\Debug\gelir-gider-1313.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\gelir-gider-1313\gelir-gider-1313\obj\Debug\gelir-gider-1313.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\gelir-gider-1313\gelir-gider-1313\obj\Debug\gelir_gider_1313.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\gelir-gider-1313\gelir-gider-1313\obj\Debug\gelir_gider_1313.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\gelir-gider-1313\gelir-gider-1313\obj\Debug\gelir-gider-1313.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\gelir-gider-1313\gelir-gider-1313\obj\Debug\gelir-gider-1313.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\gelir-gider-1313\gelir-gider-1313\obj\Debug\gelir-gider-1313.exe
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\gelir-gider-1313\gelir-gider-1313\obj\Debug\gelir-gider-1313.pdb
